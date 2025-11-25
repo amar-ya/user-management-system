@@ -104,6 +104,4 @@ public class UsersController
             return ResponseEntity.status(200).body(u);
         }
     }
-
-
 }
